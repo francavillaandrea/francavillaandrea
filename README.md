@@ -6,7 +6,7 @@ Studente di **Informatica e Telecomunicazioni** presso l'**Istituto Vallauri**. 
 - 🎓 **Istruzione**: IIS G. Vallauri (Informatica)
 - 💻 **Passione**: Software development, Web Design e Reti
 - 🚀 **Focus Attuale**: Perfezionamento in **C#**, **PHP** e **JavaScript**
-- 🤝 **Collaborazioni**: Cerco supporto e sfide su progetti **C# / .NET**
+- 🤝 **Collaborazioni**: Cerco supporto e sfide su progetti **C#**
 - 📚 **Obiettivo**: Documentare il mio percorso accademico e condividere progetti personali
 
 ---
