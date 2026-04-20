@@ -27,6 +27,7 @@ Studente di **Informatica e Telecomunicazioni** presso l'**Istituto Vallauri**. 
 
 ### 🗄️ Database & Infrastructure
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLServer](https://img.shields.io/badge/SQLServer-4479A1?style=for-the-badge&logo=&logoColor=white) 
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
